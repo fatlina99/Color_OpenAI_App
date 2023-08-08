@@ -23,7 +23,7 @@ To use AI Color Palette Generator, follow these steps:
 
 ## Contact
 
-If you want to contact me, you can reach me at `your-email@example.com`.
+If you want to contact me, you can reach me at `fatinadlina99@gmail.com`.
 
 ## License
 
